@@ -5,6 +5,8 @@ If you use our tool please cite:
 
 Ho, DV, Odell, A., Tormey, D., Deimler, N., Patterson, V., Tsuchiya, D., Klabacka, RL, Schnittker, R., Baumann, D., Neaves, WB, Barley, AJ, & Baumann, P. (2025). Ancestral chromosome-level assemblies reveal post-hybridization genome evolution in the New Mexico whiptail lizard (Aspidoscelis neomexicanus). Genome Biology and Evolution. https://doi.org/10.1093/gbe/evaf228
 
+[![DOI](https://zenodo.org/badge/1110029728.svg)](https://doi.org/10.5281/zenodo.17818113)
+
 ## Algorithm overview
 
 - This is an algorithm designed to assemble a near chromosome scale genome from HiC like data + an already established primary genome assembly. The algorithm attempts to first group scaffolds to their respective chromosomes and then attempts to order and orient the grouped scaffolds with respect to one another<br><br>
