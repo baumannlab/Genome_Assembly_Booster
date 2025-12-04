@@ -1,6 +1,9 @@
 # HiC_Genome_Assembly_Booster
 Code repository for a HiC based genome assembly "boosting" algorithm written during my time in the [BaumannLab](https://www.baumannlab.org)<br>
-If you use our tool please cite XXXX (manuscript currently in preperation / submission phase)
+
+If you use our tool please cite:
+
+Ho, DV, Odell, A., Tormey, D., Deimler, N., Patterson, V., Tsuchiya, D., Klabacka, RL, Schnittker, R., Baumann, D., Neaves, WB, Barley, AJ, & Baumann, P. (2025). Ancestral chromosome-level assemblies reveal post-hybridization genome evolution in the New Mexico whiptail lizard (Aspidoscelis neomexicanus). Genome Biology and Evolution. https://doi.org/10.1093/gbe/evaf228
 
 ## Algorithm overview
 
