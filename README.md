@@ -3,7 +3,7 @@ Code repository for a HiC based genome assembly "boosting" algorithm written dur
 
 If you use our tool please cite:
 
-Ho, DV, Odell, A., Tormey, D., Deimler, N., Patterson, V., Tsuchiya, D., Klabacka, RL, Schnittker, R., Baumann, D., Neaves, WB, Barley, AJ, & Baumann, P. (2025). Ancestral chromosome-level assemblies reveal post-hybridization genome evolution in the New Mexico whiptail lizard (Aspidoscelis neomexicanus). Genome Biology and Evolution. https://doi.org/10.1093/gbe/evaf228
+Ho, DV, Odell, A., Tormey, D., Deimler, N., Patterson, V., Tsuchiya, D., Klabacka, RL, Schnittker, R., Baumann, D., Neaves, WB, Barley, AJ, & Baumann, P. (2025). Ancestral chromosome-level assemblies reveal post-hybridization genome evolution in the New Mexico whiptail lizard (<i>Aspidoscelis neomexicanus</i>). Genome Biology and Evolution. https://doi.org/10.1093/gbe/evaf228
 
 [![DOI](https://zenodo.org/badge/597949721.svg)](https://doi.org/10.5281/zenodo.17818113)
 
